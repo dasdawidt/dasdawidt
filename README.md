@@ -7,6 +7,6 @@ On this profile you'll find various coding experiments and excercises I did.
 
 Also, here are some cool stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasdawidt&layout=compact#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasdawidt&layout=compact#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasdawidt&layout=compact&theme=dark#gh-dark-mode-only) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dasdawidt&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats) -->
