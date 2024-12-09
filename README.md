@@ -1,6 +1,5 @@
 ### 👋 Hello there <!-- General Kenobi -->
 
-I'm a hobbyist programmer who also happens to study Computer Science.
 On this profile you'll find various projects, coding experiments and excercises I did.
 
 ### 📊 Stats
